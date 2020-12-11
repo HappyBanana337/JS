@@ -2,14 +2,14 @@ function welcome(name,lastname){
     console.log("Hello " +  name + lastname)
 }
 
-welcome("Alexander" , " Edbert");
+welcome("Happy" , " Banana");
 
 function ind(a,c,e,f){
     var b = a+c+e+f
    document.write(b);
 }
 
-ind("Halo"," Nama"," Saya"," Alex");
+ind("Halo"," Nama"," Saya"," HappyBanana");
 
 
 var name = "ora ora ora ora ora ora!"
@@ -20,7 +20,7 @@ function upperCase(texts){
 
 upperCase(name);
 
-var textUpper = "alexander"
+var textUpper = "happybanana"
 function Upper(isi){
     var big = isi.toUpperCase();
     console.log(big);
